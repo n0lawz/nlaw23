@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nat! I am a Web Engineer with a front-end focus.
+- 👋 Hi, I’m Nat! I am a Web Engineer!
 - 👀 I’m interested in creating performant and easy to use web applications for everyone to use!
 - 🌱 I’m currently focusing on React based projects.
 - 💞️ I’m looking to collaborate on just about anything web based! Feel free to reach out.
