@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nat! I am a Web Engineer.
-- 👀 I’m interested in creating performant and easy to use web applications for everyone to use!
-- 🌱 I’m currently focusing on React based projects.
-- 💞️ I’m looking to collaborate on just about anything web based! Feel free to reach out.
+- 👀 I’m passionate about creating performant and reusable web components!
+- 🌱 I’m currently focusing on React/TypeScript based projects.
+- 💞️ I’m always looking to collaborate on just about anything web based! Feel free to reach out.
 - 📫 How to reach me : nlaw.dev@gmail.com
 
 <!---
