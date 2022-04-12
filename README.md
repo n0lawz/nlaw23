@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nat! I am a Web Engineer.
+- 👋 Hi, I’m Nat! I enjoy writing software.
 - 👀 I’m passionate about creating performant and reusable web components!
 - 🌱 I’m currently focusing on React/TypeScript based projects.
 - 💞️ I’m always looking to collaborate on just about anything web based! Feel free to reach out.
