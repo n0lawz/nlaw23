@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nat! I enjoy writing software.
 - 👀 I’m passionate about creating useful technology that solves modern problems.
-- 🌱 I’m currently focusing on React/TypeScript based projects.
 - 💞️ I’m always looking to collaborate on just about anything web based! Feel free to reach out.
 - 📫 How to reach me : nlaw.dev@gmail.com
 
